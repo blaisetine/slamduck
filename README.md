@@ -1,3 +1,3 @@
-# mozar
+# slamdunk
 
-https://blaisetine.github.io/mozar
+https://blaisetine.github.io/slamdunk
