@@ -2,6 +2,8 @@
 
 My basketball dunking game written in Pascal during childhood.
 
+The operating system is MS DOS, so this is running under emulation.
+
 It is incomplete and painfully slow!
 
 I used my own character in the game :-)
