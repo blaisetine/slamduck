@@ -1,6 +1,6 @@
 # slamdunk
 
-Basketball dunk game written in Pascal during childhood.
+My basketball dunking game written in Pascal during childhood.
 
 It is incomplete and painfully slow!
 
